@@ -42,7 +42,6 @@ h3{
 #acordeon .active ul{
   display:block;
 }
-
 #acordeon ul ul li > a{
   color:#919191;
   font-size: 14px;
